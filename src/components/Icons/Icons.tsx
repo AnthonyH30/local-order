@@ -4,3 +4,5 @@ export { OrangeIcon } from "./icons/OrangeIcon";
 export { SettingsIcon } from "./icons/SettingsIcon";
 export { LogOutIcon } from "./icons/LogOutIcon";
 export { SearchIcon} from "./icons/SearchIcon";
+export { CorrectIcon} from "./icons/CorrectIcon";
+export { WrongIcon} from "./icons/WrongIcon";
