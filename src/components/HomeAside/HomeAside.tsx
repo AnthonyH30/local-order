@@ -1,5 +1,5 @@
 import React from 'react'
-import { OrderList, SearchIcon } from '@/components'
+import { OrderList, Orders, SearchIcon } from '@/components'
 
 export const HomeAside = () => {
   return (
@@ -9,6 +9,7 @@ export const HomeAside = () => {
             <input type="text" placeholder='Search' className='outline-none text-lg'/>
         </div>
         <OrderList />
+        <Orders />
     </aside>
   )
 }
